@@ -1,0 +1,9 @@
+{
+  "name": "broccoli-cmd",
+  "version": "0.0.0",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "quick-temp": "^0.1.2",
+    "rsvp": "^3.0.14"
+  }
+}
